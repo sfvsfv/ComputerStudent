@@ -1,5 +1,5 @@
 # ComputerStudent
-计算机系统性资料大全,以下内容仅代表个人的学习内容，可能并不够全面。对于下面提到的书籍，如果你身上有足够的钱钱，可以买纸质的书籍。欢迎提交Issues。
+很多人问我学了哪些东西，这里我专门总结一份资料清单，计算机系统性资料大全,以下内容仅代表个人的学习内容，可能并不够全面。对于下面提到的书籍，如果你身上有足够的钱钱，可以买纸质的书籍。欢迎提交Issues。
 
 ## 计算机专业课
 1.  谢希仁的计算机网络：[计算机网络](https://github.com/sfvsfv/ComputerStudent/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89-%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)  视频讲解：[计算机网络](https://www.bilibili.com/video/BV1gV411h7r7?spm_id_from=333.337.search-card.all.click)
