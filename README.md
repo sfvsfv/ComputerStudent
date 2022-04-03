@@ -20,6 +20,7 @@
 
 
 ## python基础
+
 1.python学习路线：[学习路线](https://github.com/sfvsfv/ComputerStudent/blob/main/Python%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE_pro.pdf)
 
 2. 我自己总结的全栈基础教程：[基础](https://blog.csdn.net/weixin_46211269/category_11313211.html)
