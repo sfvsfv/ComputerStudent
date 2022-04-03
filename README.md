@@ -21,7 +21,7 @@
 ## python数据结构
 1. 数据结构讲解：[数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 2. 剑指offer:[数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E5%89%91%E6%8C%87offer)
-3. 
+3. 算法图解：[数据结构](https://github.com/sfvsfv/ComputerStudent/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E3%80%8B.pdf)
 ## 机器视觉
 1. opencv入门到实践：[opencv](https://github.com/sfvsfv/ComputerStudent/blob/main/OpenCV3%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8_%E6%AF%9B%E6%98%9F%E4%BA%91%E7%BC%96.pdf)
 2. opencv中文教程文档：[opencv](https://github.com/sfvsfv/ComputerStudent/tree/main/opencv%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/docs)
