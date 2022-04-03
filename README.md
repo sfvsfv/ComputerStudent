@@ -103,6 +103,8 @@ C语言编译器devc++:https://www.aliyundrive.com/s/CEc6RHQJkRT
 
 数据库软件navicat12破解版：链接：https://pan.baidu.com/s/1kIXJ0XnG7BAIx7SyP6g4Jg?pwd=pvxs  提取码：pvxs 
 
+Java编译软件eclipse：链接：https://pan.baidu.com/s/115LuYiWtUajEL-ICT71LQw?pwd=idfl  提取码：idfl 
+
 一些文档格式的转换：[万能文档转换](https://wwp.lanzouq.com/ilCzG02jsdud)
 
 ## 英语基础
