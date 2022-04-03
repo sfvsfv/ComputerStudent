@@ -13,6 +13,8 @@
 2. 个人学习课程写过的一些算法：[C语言数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 3.  严蔚敏版数据结构：[C语言数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%88%E4%B8%A5%E8%94%9A%E6%95%8F%EF%BC%89/Answer)
 4.  c++数据结构：[数据结构](https://github.com/sfvsfv/ComputerStudent/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84C%2B%2B%E8%AF%AD%E8%A8%80%E7%89%88%E3%80%8B.pdf)
+5.  c++程序设计：[数据结构](https://github.com/sfvsfv/ComputerStudent/blob/main/The%20C%2B%2B%20Programming%20Language%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
+6.  算法导论：[算法](「https://www.aliyundrive.com/s/TYproSsxHtB)
 
 
 ## python基础
