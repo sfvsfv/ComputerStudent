@@ -138,3 +138,12 @@ SQL数据结构群：696774324
 ## 谷歌插件
 
 一些辅助性的破解与便捷的插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
+
+## 赞助
+
+你的赞助是我继续分享的动力：
+
+![1648990961040](https://user-images.githubusercontent.com/62045791/161431210-0d748b19-f128-4534-87d5-44be44429a62.jpg)
+
+
+
