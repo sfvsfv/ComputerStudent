@@ -15,6 +15,8 @@
 4.  c++数据结构：[数据结构](https://github.com/sfvsfv/ComputerStudent/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84C%2B%2B%E8%AF%AD%E8%A8%80%E7%89%88%E3%80%8B.pdf)
 5.  c++程序设计：[数据结构](https://github.com/sfvsfv/ComputerStudent/blob/main/The%20C%2B%2B%20Programming%20Language%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
 6.  算法导论：[算法](https://www.aliyundrive.com/s/TYproSsxHtB)
+7.  C语言程序设计与实例：[基础](https://github.com/sfvsfv/ComputerStudent/blob/main/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B--1.PDF)
+
 
 
 ## python基础
