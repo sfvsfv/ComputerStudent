@@ -125,4 +125,4 @@ SQL数据结构群：696774324
 
 个人公众号：玩转大数据
 
-个人CSDN平台,这里有大部分初学者都有的教程：[CSDN](https://blog.csdn.net/weixin_46211269)
+个人CSDN平台,这里有大部分初学者都有的教程，无论是软件安装还是编程学习都有：[CSDN](https://blog.csdn.net/weixin_46211269)
