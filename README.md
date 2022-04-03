@@ -41,7 +41,7 @@
 5. xpath文档:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/xpath%E6%96%87%E6%A1%A3.pdf)
 
 ## 深度学习
-1. tensorflow深度学习:[深度学习]https://github.com/sfvsfv/ComputerStudent/tree/main/tensorflow%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Deep-Learning-with-TensorFlow-book-master)
+1. tensorflow深度学习:[深度学习](https://github.com/sfvsfv/ComputerStudent/tree/main/tensorflow%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Deep-Learning-with-TensorFlow-book-master)
 2. 深度学习500问：[深度学习](https://github.com/sfvsfv/ComputerStudent/tree/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0500%E9%97%AE)
 3. tensorflow中文文档：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/TensorFlow%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 4. sklearn中文文档：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/scikit-learn%20(sklearn)%200.21.3%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
