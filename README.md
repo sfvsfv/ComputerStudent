@@ -67,6 +67,12 @@
 ## 前端
 
  1. web信息管理课件：[web信息管理](https://github.com/sfvsfv/ComputerStudent/tree/main/web%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)  国外的书籍：[.NET框架](https://github.com/sfvsfv/ComputerStudent/blob/main/web%E6%A1%86%E6%9E%B6net-framework.pdf)
+ 2. HTML教程：[HTML](https://www.runoob.com/html/html-tutorial.html)
+ 3. CSS教程：[CSS](https://www.runoob.com/css/css-tutorial.html)
+ 4. js教程(我并没有学）:[JS](https://www.runoob.com/js/js-tutorial.html)
+
+## java
+我只学了点基础：[java](https://www.runoob.com/java/java-tutorial.html)
 
 ## 数学建模
 请见另一个仓库，已经总结了很多模型和资料：[数学建模](https://github.com/sfvsfv/meisai)
