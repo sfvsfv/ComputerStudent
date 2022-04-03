@@ -53,6 +53,9 @@ python3.10软件（官网也可下载）：
 https://wwp.lanzouq.com/ihM1E02jrvmh
 密码:a0fn
 
+虚拟机VMware-16.1.1: https://www.aliyundrive.com/s/Lq3mzzQPBgp
+
+
 一些文档格式的转换：[万能文档转换](https://wwp.lanzouq.com/ilCzG02jsdud)
 
 ## 英语基础
