@@ -15,6 +15,10 @@
 2.  python入门到实践第二版：[python基础](https://github.com/sfvsfv/ComputerStudent/blob/main/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 3.  简明的python教程：[python基础](https://github.com/sfvsfv/ComputerStudent/blob/main/%E7%AE%80%E6%98%8EPython%E6%95%99%E7%A8%8B.pdf)
 
+## python数据结构
+1. 数据结构讲解：[数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+2. 剑指offer:[数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E5%89%91%E6%8C%87offer)
+3. 
 ## 机器视觉
 1. opencv入门到实践：[opencv](https://github.com/sfvsfv/ComputerStudent/blob/main/OpenCV3%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8_%E6%AF%9B%E6%98%9F%E4%BA%91%E7%BC%96.pdf)
 2. opencv中文教程文档：[opencv](https://github.com/sfvsfv/ComputerStudent/tree/main/opencv%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/docs)
