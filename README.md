@@ -72,3 +72,6 @@ C语言编译器devc++:https://www.aliyundrive.com/s/CEc6RHQJkRT
 ## 英语基础
 必备单词：[四级单词](https://github.com/sfvsfv/ComputerStudent/blob/main/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%AF%8D%E6%B1%87%E6%89%8B%E5%86%8C%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E5%AE%9D%E5%85%B8.pdf)
 
+必备单词：[英语六级](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%AF%8D%E6%B1%87%20(1).pdf)
+
+
