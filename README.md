@@ -21,7 +21,15 @@
 2. 网络爬虫使用教程:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/Crawlab%20v0.5.0%20%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf)
 3. Scrapy文档：[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/Scrapy%E6%96%87%E6%A1%A3.pdf)
 4. xpath文档:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/xpath%E6%96%87%E6%A1%A3.pdf)
-5. 
+
+## 深度学习
+1. tensorflow深度学习:[深度学习]https://github.com/sfvsfv/ComputerStudent/tree/main/tensorflow%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Deep-Learning-with-TensorFlow-book-master)
+2. 深度学习500问：[深度学习](https://github.com/sfvsfv/ComputerStudent/tree/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0500%E9%97%AE)
+3. tensorflow中文文档：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/TensorFlow%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+4. sklearn中文文档：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/scikit-learn%20(sklearn)%200.21.3%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+5. 动手深度学习：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
+6. 周志华机器学习笔记:[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%91%A8%E5%BF%97%E5%8D%8E%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)
+7. 
 ## 前端
 
  1. web信息管理课件：[web信息管理](https://github.com/sfvsfv/ComputerStudent/tree/main/web%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)  国外的书籍：[.NET框架](https://github.com/sfvsfv/ComputerStudent/blob/main/web%E6%A1%86%E6%9E%B6net-framework.pdf)
