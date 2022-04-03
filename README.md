@@ -34,6 +34,8 @@
 
 5.  简明的python教程：[python基础](https://github.com/sfvsfv/ComputerStudent/blob/main/%E7%AE%80%E6%98%8EPython%E6%95%99%E7%A8%8B.pdf)
 
+6.  个人写的一些乱七八糟的python代码：[案例](https://github.com/sfvsfv/ComputerStudent/tree/main/%E8%87%AA%E5%B7%B1%E5%86%99%E8%BF%87%E7%9A%84%E4%B8%80%E4%BA%9Bpython%E4%BB%A3%E7%A0%81)
+
 ## python数据结构
 1. 数据结构讲解：[数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 2. 剑指offer:[数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E5%89%91%E6%8C%87offer)
@@ -92,6 +94,8 @@
 python3.10软件（官网也可下载）：
 https://wwp.lanzouq.com/ihM1E02jrvmh
 密码:a0fn
+
+pycharm的自动补码软件:https://www.aliyundrive.com/s/8oay6KTBPEs
 
 虚拟机VMware-16.1.1: https://www.aliyundrive.com/s/Lq3mzzQPBgp  序列号：ZF3R0-FHED2-M80TY-8QYGC-NPKYF
 
