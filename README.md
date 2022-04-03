@@ -13,7 +13,7 @@
 
 
 ## python基础
-1.python学习路线：[学习路线]（https://github.com/sfvsfv/ComputerStudent/blob/main/Python%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE_pro.pdf）
+1.python学习路线：[学习路线](https://github.com/sfvsfv/ComputerStudent/blob/main/Python%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE_pro.pdf)
 2.  python入门到实践：[python基础](https://github.com/sfvsfv/ComputerStudent/blob/main/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
 3.  python入门到实践第二版：[python基础](https://github.com/sfvsfv/ComputerStudent/blob/main/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 4.  简明的python教程：[python基础](https://github.com/sfvsfv/ComputerStudent/blob/main/%E7%AE%80%E6%98%8EPython%E6%95%99%E7%A8%8B.pdf)
