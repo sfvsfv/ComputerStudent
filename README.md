@@ -45,6 +45,7 @@
 3. 网络爬虫使用教程:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/Crawlab%20v0.5.0%20%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf)
 4. Scrapy文档：[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/Scrapy%E6%96%87%E6%A1%A3.pdf)
 5. xpath文档:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/xpath%E6%96%87%E6%A1%A3.pdf)
+6. 我自己总结了一点：[爬虫](https://blog.csdn.net/weixin_46211269/category_11404607.html?spm=1001.2014.3001.5482)
 
 ## 深度学习
 1. tensorflow深度学习:[深度学习](https://github.com/sfvsfv/ComputerStudent/tree/main/tensorflow%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Deep-Learning-with-TensorFlow-book-master)
