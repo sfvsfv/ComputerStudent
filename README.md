@@ -6,7 +6,10 @@
 2. 哈工大编译原理课件：[计算机网络](https://github.com/sfvsfv/ComputerStudent/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E8%AF%BE%E4%BB%B6)  视频讲解：[编译原理](https://www.icourse163.org/learn/HIT-1002123007?tid=1467039443#/learn/content?type=detail&id=1247387219)
 
 3. 哈工大计算机组成原理课件：[计算机组成原理](https://github.com/sfvsfv/ComputerStudent/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%93%88%E5%B7%A5%E5%A4%A7%E8%AE%B2%E4%B9%89) 视频讲解：[计算机组成原理](https://www.bilibili.com/video/BV1WW411Q7PF?spm_id_from=333.337.search-card.all.click)
-
+4. 
+## C语言
+1. 入门到经典实战案例：[C语言](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%AD%94%E7%BB%8F%E5%85%B8%E6%A1%88%E4%BE%8B)
+2. 
 ## python基础
 1. python入门到实践：[python基础](https://github.com/sfvsfv/ComputerStudent/blob/main/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
 2.  python入门到实践第二版：[python基础](https://github.com/sfvsfv/ComputerStudent/blob/main/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
@@ -33,3 +36,7 @@
 ## 前端
 
  1. web信息管理课件：[web信息管理](https://github.com/sfvsfv/ComputerStudent/tree/main/web%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)  国外的书籍：[.NET框架](https://github.com/sfvsfv/ComputerStudent/blob/main/web%E6%A1%86%E6%9E%B6net-framework.pdf)
+
+## 国外优质书籍
+点击查看：[国外书籍](https://github.com/sfvsfv/ComputerStudent/tree/main/%E5%9B%BD%E5%A4%96%E4%BC%98%E8%B4%A8%E4%B9%A6%E7%B1%8D%EF%BC%88%E8%87%AA%E5%B7%B1%E7%BF%BB%E8%AF%91%EF%BC%89)
+
