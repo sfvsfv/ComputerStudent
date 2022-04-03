@@ -21,9 +21,10 @@
 
 ## 爬虫
 1. 反爬虫原理与绕过实战：[爬虫](https://github.com/sfvsfv/ComputerStudent/tree/main/Python-3%E5%8F%8D%E7%88%AC%E8%99%AB%E5%8E%9F%E7%90%86%E4%B8%8E%E7%BB%95%E8%BF%87%E5%AE%9E%E6%88%98)
-2. 网络爬虫使用教程:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/Crawlab%20v0.5.0%20%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf)
-3. Scrapy文档：[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/Scrapy%E6%96%87%E6%A1%A3.pdf)
-4. xpath文档:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/xpath%E6%96%87%E6%A1%A3.pdf)
+2. python3爬虫入门到实战：[爬虫](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98)
+3. 网络爬虫使用教程:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/Crawlab%20v0.5.0%20%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf)
+4. Scrapy文档：[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/Scrapy%E6%96%87%E6%A1%A3.pdf)
+5. xpath文档:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/xpath%E6%96%87%E6%A1%A3.pdf)
 
 ## 深度学习
 1. tensorflow深度学习:[深度学习]https://github.com/sfvsfv/ComputerStudent/tree/main/tensorflow%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Deep-Learning-with-TensorFlow-book-master)
