@@ -52,6 +52,9 @@
 
  1. web信息管理课件：[web信息管理](https://github.com/sfvsfv/ComputerStudent/tree/main/web%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)  国外的书籍：[.NET框架](https://github.com/sfvsfv/ComputerStudent/blob/main/web%E6%A1%86%E6%9E%B6net-framework.pdf)
 
+## 数学建模
+请见另一个仓库，已经总结了很多模型和资料：[数学建模](https://github.com/sfvsfv/meisai)
+
 ## 国外优质书籍
 点击查看：[国外书籍](https://github.com/sfvsfv/ComputerStudent/tree/main/%E5%9B%BD%E5%A4%96%E4%BC%98%E8%B4%A8%E4%B9%A6%E7%B1%8D%EF%BC%88%E8%87%AA%E5%B7%B1%E7%BF%BB%E8%AF%91%EF%BC%89)
 
