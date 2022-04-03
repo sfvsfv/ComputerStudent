@@ -53,6 +53,8 @@ python3.10软件（官网也可下载）：
 https://wwp.lanzouq.com/ihM1E02jrvmh
 密码:a0fn
 
+一些文档格式的转换：[万能文档转换](https://wwp.lanzouq.com/ilCzG02jsdud)
+
 ## 英语基础
 必备单词：[四级单词](https://github.com/sfvsfv/ComputerStudent/blob/main/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%AF%8D%E6%B1%87%E6%89%8B%E5%86%8C%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E5%AE%9D%E5%85%B8.pdf)
 
