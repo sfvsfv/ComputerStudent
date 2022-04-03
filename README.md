@@ -107,7 +107,7 @@ C语言编译器devc++:https://www.aliyundrive.com/s/CEc6RHQJkRT
 必备单词：[英语六级](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%AF%8D%E6%B1%87%20(1).pdf)
 
 
-## 交流群
+## 交流群与社交联系
 
 python全栈二群：428335755
 
@@ -118,3 +118,9 @@ python全栈二群：428335755
 C/C++交流群：474372221
 
 SQL数据结构群：696774324
+
+个人微信：hxgsrubxjogxeeag  （如有违权可联系我删除）
+
+个人公众号：玩转大数据
+
+个人CSDN平台,这里有大部分初学者都有的教程：[CSDN](https://blog.csdn.net/weixin_46211269)
