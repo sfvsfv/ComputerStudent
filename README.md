@@ -97,10 +97,6 @@ C语言编译器devc++:https://www.aliyundrive.com/s/CEc6RHQJkRT
 
 数据库软件navicat12破解版：链接：https://pan.baidu.com/s/1kIXJ0XnG7BAIx7SyP6g4Jg?pwd=pvxs  提取码：pvxs 
 
-
-
-
-
 一些文档格式的转换：[万能文档转换](https://wwp.lanzouq.com/ilCzG02jsdud)
 
 ## 英语基础
@@ -126,3 +122,7 @@ SQL数据结构群：696774324
 个人公众号：玩转大数据
 
 个人CSDN平台,这里有大部分初学者都有的教程，无论是软件安装还是编程学习都有：[CSDN](https://blog.csdn.net/weixin_46211269)
+
+## 谷歌插件
+
+一些辅助性的破解与便捷的插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
