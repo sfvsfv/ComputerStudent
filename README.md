@@ -2,6 +2,17 @@
 很多人问我学了哪些东西，这里我专门总结一份资料清单，计算机系统性资料大全,当然基础课我就不说了（什么高数线代离散，数电，电路，自动控制理论），主要是偏专业的内容，以下内容仅代表个人的学习内容，可能并不够全面。对于下面提到的书籍，如果你身上有足够的钱钱，可以买纸质的书籍。
 
 欢迎提交Issues，点个star，fork到自己仓库是你的最佳保存资料选择，需要哪方面资料可以直接点击下面的提供的链接，你不需要全部下载，因为很大。
+## 计算机基础课
+
+电路课程：[电路](https://www.bilibili.com/video/BV1gE41177GR)
+
+数字电路课程：[数电](https://www.bilibili.com/video/BV18p411Z7ce?spm_id_from=333.337.search-card.all.click)
+
+大学数学：[高数](https://www.bilibili.com/video/BV1A44y1P7Px?spm_id_from=333.337.search-card.all.click)
+
+大学线性代数：[线代](https://www.bilibili.com/video/BV1mL4y177cV?spm_id_from=333.337.search-card.all.click)
+
+大学离散熟悉：[离散](https://www.bilibili.com/video/BV1cs411H7sz?spm_id_from=333.337.search-card.all.click)
 
 ## 计算机专业课
 1.  谢希仁的计算机网络：[计算机网络](https://github.com/sfvsfv/ComputerStudent/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89-%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)  视频讲解：[计算机网络](https://www.bilibili.com/video/BV1gV411h7r7?spm_id_from=333.337.search-card.all.click)
