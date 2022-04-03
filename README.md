@@ -8,11 +8,11 @@
 3. 哈工大计算机组成原理课件：[计算机组成原理](https://github.com/sfvsfv/ComputerStudent/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%93%88%E5%B7%A5%E5%A4%A7%E8%AE%B2%E4%B9%89) 视频讲解：[计算机组成原理](https://www.bilibili.com/video/BV1WW411Q7PF?spm_id_from=333.337.search-card.all.click)
 
 
-## C语言基础与数据结构
+## C/C++语言基础与数据结构
 1. 入门到经典实战案例：[C语言](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%AD%94%E7%BB%8F%E5%85%B8%E6%A1%88%E4%BE%8B)
 2. 个人学习课程写过的一些算法：[C语言数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 3.  严蔚敏版数据结构：[C语言数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%88%E4%B8%A5%E8%94%9A%E6%95%8F%EF%BC%89/Answer)
-4.  
+4.  c++数据结构：[数据结构](https://github.com/sfvsfv/ComputerStudent/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84C%2B%2B%E8%AF%AD%E8%A8%80%E7%89%88%E3%80%8B.pdf)
 
 
 ## python基础
