@@ -116,6 +116,9 @@ python数据结构是必会，查看该github数据结构部分，基础也有�
 可打卡址：https://bbs.csdn.net/forums/chuan?category=0&typeId=19417
 
 比赛基本注意事项：https://zhuanlan.zhihu.com/p/457768918
+
+基础视频讲解： https://www.bilibili.com/video/BV1Ma411B7TQ/
+
 ## 国外优质书籍
 点击查看：[国外书籍](https://github.com/sfvsfv/ComputerStudent/tree/main/%E5%9B%BD%E5%A4%96%E4%BC%98%E8%B4%A8%E4%B9%A6%E7%B1%8D%EF%BC%88%E8%87%AA%E5%B7%B1%E7%BF%BB%E8%AF%91%EF%BC%89)
 
