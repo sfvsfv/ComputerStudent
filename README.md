@@ -58,6 +58,8 @@ https://wwp.lanzouq.com/ihM1E02jrvmh
 
 虚拟机VMware-16.1.1: https://www.aliyundrive.com/s/Lq3mzzQPBgp  序列号：ZF3R0-FHED2-M80TY-8QYGC-NPKYF
 
+ubuntu镜像,有点大，在这个群文件自行下载：813269919
+
 C语言编译器devc++:https://www.aliyundrive.com/s/CEc6RHQJkRT
 
 
