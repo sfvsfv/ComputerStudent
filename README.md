@@ -174,6 +174,7 @@ SQL数据结构群：696774324
 ## 谷歌插件
 
 一些辅助性的破解与便捷的插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
+全网付费视频高清播放：https://www.ysgc.tv/
 
 ## 赞助
 
