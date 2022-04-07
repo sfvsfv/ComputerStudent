@@ -1,11 +1,11 @@
-# ComputerStudent
+# 一、ComputerStudent
 很多人问我学了哪些东西，这里我专门总结一份资料清单，计算机系统性资料大全,以下内容仅代表个人的学习内容，可能并不够全面。对于下面提到的书籍，如果你身上有足够的钱钱，可以买纸质的书籍。
 
 欢迎提交Issues，点个star，fork到自己仓库是你的最佳保存资料选择，需要哪方面资料可以直接点击下面的提供的链接，你不需要全部下载，因为很大。
 
 ![image](https://user-images.githubusercontent.com/62045791/161434530-1bdacf92-1466-4e3a-896d-a5d9c75bad5e.png)
 
-## 计算机基础课
+## 二、计算机基础课
 
 电路课程：[电路](https://www.bilibili.com/video/BV1gE41177GR)
 
@@ -17,7 +17,7 @@
 
 大学离散熟悉：[离散](https://www.bilibili.com/video/BV1cs411H7sz?spm_id_from=333.337.search-card.all.click)
 
-## 计算机专业课
+## 三、计算机专业课
 1.  谢希仁的计算机网络：[计算机网络](https://github.com/sfvsfv/ComputerStudent/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89-%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)  视频讲解：[计算机网络](https://www.bilibili.com/video/BV1gV411h7r7?spm_id_from=333.337.search-card.all.click)
 
 2. 哈工大编译原理课件：[计算机网络](https://github.com/sfvsfv/ComputerStudent/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E8%AF%BE%E4%BB%B6)  视频讲解：[编译原理](https://www.icourse163.org/learn/HIT-1002123007?tid=1467039443#/learn/content?type=detail&id=1247387219)
@@ -27,7 +27,7 @@
 4. 操作系统：[点击](https://www.bilibili.com/video/BV1YE411D7nH?spm_id_from=333.337.search-card.all.click)
 
 数据结构也算专业课，看下面这一节
-## C/C++语言基础与数据结构
+## 四、C/C++语言基础与数据结构
 1. 入门到经典实战案例：[C语言](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%AD%94%E7%BB%8F%E5%85%B8%E6%A1%88%E4%BE%8B)
 2. 个人学习课程写过的一些算法：[C语言数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 3.  严蔚敏版数据结构：[C语言数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%88%E4%B8%A5%E8%94%9A%E6%95%8F%EF%BC%89/Answer)
@@ -38,7 +38,7 @@
 
 
 
-## python基础
+## 五、python基础
 
 1.python学习路线：[学习路线](https://github.com/sfvsfv/ComputerStudent/blob/main/Python%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE_pro.pdf)
 
@@ -52,20 +52,20 @@
 
 6.  个人写的一些乱七八糟的python代码：[案例](https://github.com/sfvsfv/ComputerStudent/tree/main/%E8%87%AA%E5%B7%B1%E5%86%99%E8%BF%87%E7%9A%84%E4%B8%80%E4%BA%9Bpython%E4%BB%A3%E7%A0%81)
 
-## python数据结构
+## 六、python数据结构
 1. 数据结构讲解：[数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 2. 剑指offer:[数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E5%89%91%E6%8C%87offer)
 3. 算法图解：[数据结构](https://github.com/sfvsfv/ComputerStudent/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E3%80%8B.pdf)
 
-## Django
+## 七、Django
 1. Django入门与实践教程：[Django](https://github.com/sfvsfv/ComputerStudent/blob/main/Django%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%95%99%E7%A8%8B.pdf)
 2. 
 
-## 机器视觉
+## 八、机器视觉
 1. opencv入门到实践：[opencv](https://github.com/sfvsfv/ComputerStudent/blob/main/OpenCV3%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8_%E6%AF%9B%E6%98%9F%E4%BA%91%E7%BC%96.pdf)
 2. opencv中文教程文档：[opencv](https://github.com/sfvsfv/ComputerStudent/tree/main/opencv%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/docs)
 
-## 爬虫
+## 九、爬虫
 1. 反爬虫原理与绕过实战：[爬虫](https://github.com/sfvsfv/ComputerStudent/tree/main/Python-3%E5%8F%8D%E7%88%AC%E8%99%AB%E5%8E%9F%E7%90%86%E4%B8%8E%E7%BB%95%E8%BF%87%E5%AE%9E%E6%88%98)
 2. python3爬虫入门到实战：[爬虫](https://github.com/sfvsfv/ComputerStudent/tree/main/python%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98)
 3. 网络爬虫使用教程:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/Crawlab%20v0.5.0%20%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf)
@@ -73,7 +73,7 @@
 5. xpath文档:[爬虫](https://github.com/sfvsfv/ComputerStudent/blob/main/xpath%E6%96%87%E6%A1%A3.pdf)
 6. 我自己总结了一点：[爬虫](https://blog.csdn.net/weixin_46211269/category_11404607.html?spm=1001.2014.3001.5482)
 
-## 深度学习
+## 十、深度学习
 1. tensorflow深度学习:[深度学习](https://github.com/sfvsfv/ComputerStudent/tree/main/tensorflow%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Deep-Learning-with-TensorFlow-book-master)
 2. 深度学习500问：[深度学习](https://github.com/sfvsfv/ComputerStudent/tree/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0500%E9%97%AE)
 3. tensorflow中文文档：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/TensorFlow%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
@@ -81,7 +81,7 @@
 5. 动手深度学习：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 6. 周志华机器学习笔记:[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%91%A8%E5%BF%97%E5%8D%8E%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)
 
-## 数据库
+## 十一、数据库
 1. 我自己总结的教程：[数据库](https://blog.csdn.net/weixin_46211269/category_10590623.html)
 2. SQL入门到实战：[数据库](https://www.aliyundrive.com/s/SBjhWBTv87o)
 3. 数据库原理：链接：https://pan.baidu.com/s/18nCivDYxED3fy298B-LUHw?pwd=b1jl  提取码：b1jl 
@@ -89,7 +89,7 @@
 5. SQL SEVER2016入门到实战：链接：https://pan.baidu.com/s/1DQDlEehAUJf-ZZMK05c_Dg?pwd=x55n  提取码：x55n 
 
 
-## 前端
+## 十二.前端
 
  1. web信息管理课件：[web信息管理](https://github.com/sfvsfv/ComputerStudent/tree/main/web%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)  国外的书籍：[.NET框架](https://github.com/sfvsfv/ComputerStudent/blob/main/web%E6%A1%86%E6%9E%B6net-framework.pdf)
  2. HTML教程：[HTML](https://www.runoob.com/html/html-tutorial.html)
@@ -97,13 +97,13 @@
  4. js教程(我并没有学）:[JS](https://www.runoob.com/js/js-tutorial.html)
  5. 我自己的一些案例源码：[案例](https://github.com/sfvsfv/HTML)
 
-## java
+## 十三、java
 我只学了点基础：[java](https://www.runoob.com/java/java-tutorial.html)
 
-## 数学建模
+## 十四、数学建模
 请见另一个仓库，已经总结了很多模型和资料：[数学建模](https://github.com/sfvsfv/meisai)
 
-## python蓝桥杯
+## 十五、python蓝桥杯
 
 可刷蓝桥杯题的地址：https://www.dotcpp.com/oj/problemset.php?page=1&mark=6
 
@@ -119,10 +119,10 @@ python数据结构是必会，查看该github数据结构部分，基础也有�
 
 基础视频讲解： https://www.bilibili.com/video/BV1Ma411B7TQ/
 
-## 国外优质书籍
+## 十六、国外优质书籍
 点击查看：[国外书籍](https://github.com/sfvsfv/ComputerStudent/tree/main/%E5%9B%BD%E5%A4%96%E4%BC%98%E8%B4%A8%E4%B9%A6%E7%B1%8D%EF%BC%88%E8%87%AA%E5%B7%B1%E7%BF%BB%E8%AF%91%EF%BC%89)
 
-## 必备软件
+## 十七、必备软件
 python3.10软件（官网也可下载）：
 https://wwp.lanzouq.com/ihM1E02jrvmh
 密码:a0fn
@@ -143,13 +143,13 @@ Java编译软件eclipse：链接：https://pan.baidu.com/s/115LuYiWtUajEL-ICT71L
 
 一些文档格式的转换：[万能文档转换](https://wwp.lanzouq.com/ilCzG02jsdud)
 
-## 英语基础
+## 十八、英语基础
 必备单词：[四级单词](https://github.com/sfvsfv/ComputerStudent/blob/main/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%AF%8D%E6%B1%87%E6%89%8B%E5%86%8C%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E5%AE%9D%E5%85%B8.pdf)
 
 必备单词：[英语六级](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%AF%8D%E6%B1%87%20(1).pdf)
 
 
-## 交流群与社交联系
+## 十九、交流群与社交联系
 
 python全栈二群：428335755
 
@@ -171,7 +171,7 @@ SQL数据结构群：696774324
 
 个人CSDN平台,这里有大部分初学者都有的教程，无论是软件安装还是编程学习都有：[CSDN](https://blog.csdn.net/weixin_46211269)
 
-## 好用的工具和网站
+## 二十、好用的工具和网站
 
 一些辅助性的破解与便捷的谷歌插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
 
@@ -181,7 +181,7 @@ SQL数据结构群：696774324
 
 免费白嫖全球的书籍，数字图书馆：https://zh.de1lib.org/ 下载好后需要使用上面分享的万能文档转换转换
 
-## 赞助
+## 二十一、赞助
 
 你的赞助是我继续分享的动力：
 
