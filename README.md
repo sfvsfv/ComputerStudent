@@ -171,13 +171,15 @@ SQL数据结构群：696774324
 
 个人CSDN平台,这里有大部分初学者都有的教程，无论是软件安装还是编程学习都有：[CSDN](https://blog.csdn.net/weixin_46211269)
 
-## 好用的工具
+## 好用的工具和网站
 
 一些辅助性的破解与便捷的谷歌插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
 
 全网付费视频高清播放：https://www.ysgc.tv/
 
 在线编辑word文档，便捷效率，还可以多人协作：https://docs.google.com/
+
+免费白嫖全球的书籍，数字图书馆：https://zh.de1lib.org/ 下载好后需要使用上面分享的万能文档转换转换
 
 ## 赞助
 
