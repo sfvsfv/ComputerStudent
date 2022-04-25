@@ -103,10 +103,13 @@
 ## 十三、java
 我只学了点基础：[java](https://www.runoob.com/java/java-tutorial.html)
 
-## 十四、数学建模
+## 十四、matlab教程
+基础请参考：https://www.w3cschool.cn/matlab/
+遇到函数不懂问题，请参考官网：https://ww2.mathworks.cn/help/matlab/index.html
+## 十五、数学建模
 请见另一个仓库，已经总结了很多模型和资料：[数学建模](https://github.com/sfvsfv/meisai)
 
-## 十五、python蓝桥杯
+## 十六、python蓝桥杯
 
 可刷蓝桥杯题的地址：https://www.dotcpp.com/oj/problemset.php?page=1&mark=6
 
@@ -122,10 +125,10 @@ python数据结构是必会，查看该github数据结构部分，基础也有�
 
 基础视频讲解： https://www.bilibili.com/video/BV1Ma411B7TQ/
 
-## 十六、国外优质书籍
+## 十七、国外优质书籍
 点击查看：[国外书籍](https://github.com/sfvsfv/ComputerStudent/tree/main/%E5%9B%BD%E5%A4%96%E4%BC%98%E8%B4%A8%E4%B9%A6%E7%B1%8D%EF%BC%88%E8%87%AA%E5%B7%B1%E7%BF%BB%E8%AF%91%EF%BC%89)
 
-## 十七、必备软件
+## 十八、必备软件
 python3.10软件（官网也可下载）：
 https://wwp.lanzouq.com/ihM1E02jrvmh
 密码:a0fn
@@ -146,13 +149,13 @@ Java编译软件eclipse：链接：https://pan.baidu.com/s/115LuYiWtUajEL-ICT71L
 
 一些文档格式的转换：[万能文档转换](https://wwp.lanzouq.com/ilCzG02jsdud)
 
-## 十八、英语基础
+## 十九、英语基础
 必备单词：[四级单词](https://github.com/sfvsfv/ComputerStudent/blob/main/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%AF%8D%E6%B1%87%E6%89%8B%E5%86%8C%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E5%AE%9D%E5%85%B8.pdf)
 
 必备单词：[英语六级](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%AF%8D%E6%B1%87%20(1).pdf)
 
 
-## 十九、交流群与社交联系
+## 二十、交流群与社交联系
 
 python全栈二群：428335755
 
@@ -172,18 +175,18 @@ SQL数据结构群：696774324
 
 个人CSDN平台,这里有大部分初学者都有的教程，无论是软件安装还是编程学习都有：[CSDN](https://blog.csdn.net/weixin_46211269)
 
-## 二十、谷歌插件
+## 二十一、谷歌插件
 
 一些辅助性的破解与便捷的谷歌插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
 
-## 二十一、白嫖
+## 二十二、白嫖
 全网付费视频高清播放：https://www.ysgc.tv/
 
 在线编辑word文档，便捷效率，还可以多人协作：https://docs.google.com/
 
 免费白嫖全球的书籍，数字图书馆：https://zh.de1lib.org/ 下载好后需要使用上面分享的万能文档转换转换
 
-## 二十二、赞助
+## 二十三、赞助
 
 你的赞助是我继续分享的动力：
 
