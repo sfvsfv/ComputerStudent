@@ -160,7 +160,7 @@ Java编译软件eclipse：链接：https://pan.baidu.com/s/115LuYiWtUajEL-ICT71L
 
 python全栈二群：428335755
 
-数学建模基地群：834536032
+数学建模学习交流4群：238608065
 
 C/C++交流群：474372221
 
