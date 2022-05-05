@@ -83,6 +83,7 @@
 4. sklearn中文文档：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/scikit-learn%20(sklearn)%200.21.3%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 5. 动手深度学习：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 6. 周志华机器学习笔记:[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%91%A8%E5%BF%97%E5%8D%8E%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)
+7. Kaggle书籍：[机器学习宝典](https://github.com/sfvsfv/The-Kaggle-Book)
 
 ## 十一、数据库
 1. 我自己总结的教程：[数据库](https://blog.csdn.net/weixin_46211269/category_10590623.html)
