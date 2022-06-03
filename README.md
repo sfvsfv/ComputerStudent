@@ -1,5 +1,5 @@
 # 一、ComputerStudent
-很多人问我学了哪些东西，这里我专门总结一份资料清单，计算机系统性资料大全,以下内容仅代表个人的学习内容，可能并不够全面。对于下面提到的书籍，如果你身上有足够的钱钱，可以买纸质的书籍。本仓库包括各种优质资料，同时包含一些破解工具等，还请理智使用，若违规与本人无关。希望大家好好学习，低调白嫖、
+很多人问我学了哪些东西，这里我专门总结一份资料清单，计算机系统性资料大全,以下内容仅代表个人的学习内容，可能并不够全面。对于下面提到的书籍，如果你身上有足够的钱钱，可以买纸质的书籍。本仓库包括各种优质资料，同时包含一些破解工具等，还请理智使用，若违规与本人无关。希望大家好好学习，低调白嫖。个人公众号：玩转大数据
 
 欢迎提交Issues，点个star，fork到自己仓库是你的最佳保存资料选择，需要哪方面资料可以直接点击下面的提供的链接，你不需要全部下载，因为很大。
 ![image](https://user-images.githubusercontent.com/62045791/167303259-3e6c5498-ab41-4fe2-9883-8be11a39bc62.png)
@@ -86,6 +86,8 @@
 5. 动手深度学习：[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 6. 周志华机器学习笔记:[深度学习](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%91%A8%E5%BF%97%E5%8D%8E%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)
 7. Kaggle书籍：[机器学习宝典](https://github.com/sfvsfv/The-Kaggle-Book)
+8. 周志华的机器学习原版数据：链接：https://pan.baidu.com/s/1l3xUyOAj7OXxx2XKeINQlw?pwd=qavi   提取码：qavi 
+
 
 ## 十一、数据库
 1. 我自己总结的教程：[数据库](https://blog.csdn.net/weixin_46211269/category_10590623.html)
