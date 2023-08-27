@@ -188,7 +188,7 @@ SQL数据结构群：696774324
 一些辅助性的破解与便捷的谷歌插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
 
 ## 二十二、白嫖
-全网付费视频高清播放：https://www.ysgc.tv/
+全网付费视频高清播放：[https://www.ysgc.tv/](https://www.ysgc.fun/)
 
 在线编辑word文档，便捷效率，还可以多人协作：https://docs.google.com/
 
